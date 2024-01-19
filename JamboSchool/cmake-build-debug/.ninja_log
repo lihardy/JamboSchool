@@ -1,0 +1,7 @@
+# ninja log v5
+268	300	1703696421492819933	JamboSchool	db5cab254cb6f7ea
+4	59	7270315516972224	build.ninja	98dff1356c438606
+1	1261	7271089897205028	CMakeFiles/JamboSchool.dir/ChessPiece.cpp.obj	282fda6afa77cd86
+45	1274	7271089897346457	CMakeFiles/JamboSchool.dir/main.cpp.obj	998b987671f48453
+54	1293	7271089897499607	CMakeFiles/JamboSchool.dir/ChessBoard.cpp.obj	e4d47b162f86d199
+1293	1741	7271089901965571	JamboSchool.exe	63830842281f9cc8

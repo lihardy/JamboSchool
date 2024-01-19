@@ -1,0 +1,3 @@
+C:/Users/HardyLi2007/Desktop/JamboSchool/cmake-build-debug/CMakeFiles/JamboSchool.dir
+C:/Users/HardyLi2007/Desktop/JamboSchool/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/HardyLi2007/Desktop/JamboSchool/cmake-build-debug/CMakeFiles/rebuild_cache.dir
