@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/HardyLi2007/Desktop/JamboSchool/cmake-build-debug"
+			"value" : "c:/Users/HardyLi2007/Documents/GitHub/JamboSchool/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -575,7 +575,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/HardyLi2007/Desktop/JamboSchool/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/HardyLi2007/Documents/GitHub/JamboSchool/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -647,7 +647,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/HardyLi2007/Desktop/JamboSchool"
+			"value" : "C:/Users/HardyLi2007/Documents/GitHub/JamboSchool"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1279,7 +1279,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/HardyLi2007/Desktop/JamboSchool/cmake-build-debug"
+			"value" : "C:/Users/HardyLi2007/Documents/GitHub/JamboSchool/cmake-build-debug"
 		},
 		{
 			"name" : "JamboSchool_IS_TOP_LEVEL",
@@ -1303,7 +1303,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/HardyLi2007/Desktop/JamboSchool"
+			"value" : "C:/Users/HardyLi2007/Documents/GitHub/JamboSchool"
 		},
 		{
 			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",
