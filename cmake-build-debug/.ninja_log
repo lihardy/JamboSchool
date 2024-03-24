@@ -1,7 +1,12 @@
 # ninja log v5
-268	300	1703696421492819933	JamboSchool	db5cab254cb6f7ea
-1	1261	7271089897205028	CMakeFiles/JamboSchool.dir/ChessPiece.cpp.obj	282fda6afa77cd86
 54	1293	7271089897499607	CMakeFiles/JamboSchool.dir/ChessBoard.cpp.obj	e4d47b162f86d199
-4	59	7278016326281153	build.ninja	98dff1356c438606
+1	1261	7271089897205028	CMakeFiles/JamboSchool.dir/ChessPiece.cpp.obj	282fda6afa77cd86
+268	300	1703696421492819933	JamboSchool	db5cab254cb6f7ea
 1293	1741	7271089901965571	JamboSchool.exe	63830842281f9cc8
+4	59	7326417575411110	build.ninja	98dff1356c438606
 45	1274	7271089897346457	CMakeFiles/JamboSchool.dir/main.cpp.obj	998b987671f48453
+21	754	7326417575411110	build.ninja	117bcf0780655eb7
+11	1157	7326417587940907	CMakeFiles/JamboSchool.dir/ChessPiece.cpp.obj	ea50a14391afc202
+4	1162	7326417588040933	CMakeFiles/JamboSchool.dir/main.cpp.obj	1d67b3886d71da28
+8	1181	7326417588216034	CMakeFiles/JamboSchool.dir/ChessBoard.cpp.obj	4d5c79a3d759aa82
+1181	1637	7326417592747008	JamboSchool.exe	63830842281f9cc8
