@@ -1,0 +1,3 @@
+C:/Users/HardyLi2007/CLionProjects/producer/cmake-build-debug/CMakeFiles/producer.dir
+C:/Users/HardyLi2007/CLionProjects/producer/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/HardyLi2007/CLionProjects/producer/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,5 @@
+# ninja log v5
+4	752	7327745704072878	CMakeFiles/producer.dir/main.cpp.obj	d016ca3476193b6b
+752	939	7327745705880467	producer.exe	da304679f6a247e5
+3	728	7329693739311040	CMakeFiles/producer.dir/readwrite.cpp.obj	86ffb22c3ca361fa
+4	833	7329908466940337	CMakeFiles/producer.dir/main.cpp.obj	d016ca3476193b6b
